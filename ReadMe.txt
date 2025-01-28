@@ -1,3 +1,5 @@
+The project showcases the use of Message Passing Interface to create a parallel program which can perform unjumbling of words faster than a serial program. Multiple problem sizes are chosen to get the optimal problem size above which the parallel program will always be faster than the serial program.
+
 The project consists of all these elements:
 
 Parallel.c : parallel program source code
